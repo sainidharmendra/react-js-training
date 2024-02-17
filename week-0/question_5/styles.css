@@ -1,0 +1,23 @@
+body {
+    background-color: lightgrey;
+}
+
+img {
+    display: inline-block;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1  {
+    display: block;
+    text-align: center;
+    color: red;
+    border: 2px;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+p {
+    color: darkblue;
+}
